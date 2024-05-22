@@ -1,6 +1,7 @@
 # Cloudinary NodeJS Quickstart
 
-This is the [quickstart project](https://cloudinary.com/documentation/javascript_quick_start) from the Cloudinary docs.
+This is the [quickstart project](https://cloudinary.com/documentation/javascript_quick_start) from the Cloudinary docs
+using updated Parcel.
 
 ## Setup
 
