@@ -1,0 +1,19 @@
+{
+  "name": "cloudinary-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudinary/url-gen": "^1.19.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
