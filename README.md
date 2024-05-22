@@ -10,3 +10,8 @@ using updated Parcel.
 2. Run `npm install`.
 3. (Optional) Replace the `cloudName` and the image Public ID on lines 7 and 15 of `index.js` respectively.
 4. Run `npm start`.
+
+## Troubleshooting
+
+In case of cryptic errors from Parcel such as `Expected content key...`, delete `.parcel-cache` directory in the root of the
+project and start again.
